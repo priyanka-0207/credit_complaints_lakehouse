@@ -1,5 +1,3 @@
-# cfpb-lendingclub
-
 # Credit Complaints Lakehouse
 
 A Databricks medallion pipeline built on two public consumer credit datasets: the **CFPB Consumer Complaint Database** and **Lending Club accepted loans**.
